@@ -7,7 +7,7 @@ title: ZhangShurong的博客
 subtitle:
 description:
 keywords:
-author: John Doe
+author: 张树荣
 language:
 timezone:
 
@@ -81,3 +81,9 @@ deploy:
   type: git
   repo: https://github.com/ZhangShurong/ZhangShurong.github.io.git
   branch: master
+
+menu:
+  home: /
+  essay: /categories/非技术     
+  write: /categories/技术   
+  about: /about
