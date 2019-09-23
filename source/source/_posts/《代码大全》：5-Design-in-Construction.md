@@ -45,7 +45,7 @@ categories:
   * 标准技术
 * 设计的层次  
 以下   
-![design level](/img/Design-in-Construction/level.png)
+![design level](/img/DesignInConstruction/level.png)
   1. 软件系统
   2. 分解为子系统包
   3. 分解为类
