@@ -87,3 +87,17 @@ menu:
   essay: /categories/非技术     
   write: /categories/技术   
   about: /about
+
+gitment:
+  enable: true # 是否开启gitment评论系统
+  mint: true #
+  count: true # 是否显示评论数
+  lazy: true # 懒加载，设置为ture时需手动展开评论
+  cleanly: true # 是否隐藏'Powered by ...'
+  language: en # 语言，置空则随主题的语言
+  github_user: ZhangShurong # Github用户名
+  github_repo: comment # 在Github新建一个仓库用于存放评论，这是仓库名
+  client_id: 7623d84eba38593c506d # 注册OAuth Application时生成
+  client_secret: c9bbaf4c82618c8acf2ae389ec18987475f326c1 # 注册OAuth Application时生成
+  proxy_gateway: # Address of api proxy, See: https://github.com/aimingoo/intersect
+  redirect_protocol: # Protocol of redirect_uri with force_redirect_protocol when mint enabled
